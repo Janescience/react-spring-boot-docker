@@ -9,7 +9,7 @@ services:
       - 8888:8888
   frontend:
     image: frontend
-    build : ./react-front
+    build : ./react-frontend
     container_name: frontend
     ports:
       - 3000:3000
