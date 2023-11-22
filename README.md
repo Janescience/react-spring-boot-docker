@@ -4,8 +4,12 @@
   - `http://localhost:3000`
 - Java Spring Boot Backend 
   - `http://localhost:8888/api`
+ 
+## Prerequire
 
-# Run both
+- Docker
+
+## Run with Docker Compose
 
 `docker-compose up -d`
 
